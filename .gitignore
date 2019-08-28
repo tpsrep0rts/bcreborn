@@ -1,0 +1,9 @@
+.vs/
+Assembly-CSharp.csproj
+BattleCityReborn.sln.ide/
+BattleCityReborn.v14.suo
+Library/
+Logs/
+Packages/
+Temp/
+obj/
